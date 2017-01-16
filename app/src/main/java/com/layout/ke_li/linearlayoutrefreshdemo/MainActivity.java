@@ -28,6 +28,9 @@ public class MainActivity extends AppCompatActivity {
         for (int i=0;i<40;i++)
         list.add(getResources().getString(R.string.longstring));
         listView.setAdapter(new ViewAdapter());
+
+        
+
     }
 
 
