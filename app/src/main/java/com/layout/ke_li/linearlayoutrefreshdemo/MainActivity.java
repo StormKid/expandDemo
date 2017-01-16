@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         list.add(getResources().getString(R.string.longstring));
         listView.setAdapter(new ViewAdapter());
 
-        
+
 
     }
 
