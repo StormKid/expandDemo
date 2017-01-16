@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandableContainer">
+        <attr name="setText" format="string"></attr>
+        <attr name="setImageResource" format="integer"></attr>
+        <attr name="image_width" format="dimension"></attr>
+        <attr name="image_height" format="dimension"></attr>
+        <attr name="expandableLine" format="integer"></attr>
+    </declare-styleable>
+</resources>
