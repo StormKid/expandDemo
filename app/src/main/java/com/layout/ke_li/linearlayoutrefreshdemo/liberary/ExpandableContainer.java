@@ -57,7 +57,7 @@ public class ExpandableContainer extends LinearLayout {
         //创建TextView
         textView = new TextView(context);
 
-        //创建ImageView
+        //创建ImageView 负责点击imageview来展示更多
         imageView = new ImageView(context);
 
         TypedArray array = context.obtainStyledAttributes(attrs, R.styleable.ExpandableContainer);

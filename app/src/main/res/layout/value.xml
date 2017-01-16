@@ -13,6 +13,7 @@
             android:orientation="horizontal"
             app:image_width="20dp"
             app:image_height="20dp"
+            android:padding="20dp"
 
     />
 
